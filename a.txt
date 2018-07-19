@@ -1,5 +1,9 @@
 Hello World!!!
 Something magic will happen here!
 line 1 thinh add
+<<<<<<< HEAD
 line 2 tai add
 line 3
+=======
+
+>>>>>>> 46dfa6478181663d6eddf16fc3d3fb33fada505c
